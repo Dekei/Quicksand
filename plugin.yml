@@ -12,7 +12,7 @@ commands:
     description: QUICKSAND by Firebreath15!
     usage: /qs
     permission: quicksand.use
-    permission-message: No Permission!
+    permission-message: No Permissionaaa!
 permissions:
   quicksand.use:
     default: true
