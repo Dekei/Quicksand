@@ -1,0 +1,17 @@
+#
+# Quicksand Configuration
+#
+# 1. Only use spaces, TABs are not allowed in config.yml
+# 2. For the blocks and Entities, only use the ENUM types:
+#    blocks = http://jd.bukkit.org/dev/apidocs/org/bukkit/Material.html
+#    mobs = http://jd.bukkit.org/dev/apidocs/org/bukkit/entity/EntityType.html
+
+defaults:
+  countdown: 10
+  minPlayers: 2
+  floorMaterials: 
+   - SAND
+   - GRAVEL
+   - SOUL_SAND
+
+arenas:
