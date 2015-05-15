@@ -1,0 +1,28 @@
+name: Quicksand
+version: 1.5.7
+author: DaniOurGamer and byDekei 
+main: me.DaniOurGamer.quicksand.QuicksandPlugin
+commands:
+  quicksand:
+    description: QUICKSAND by DaniOurGamer!
+    usage: /quicksand
+    permission: quicksand.use
+    permission-message: No Permission!
+  qs:
+    description: QUICKSAND by Firebreath15!
+    usage: /qs
+    permission: quicksand.use
+    permission-message: No Permission!
+permissions:
+  quicksand.use:
+    default: true
+  quicksand.setspawn:
+    default: op
+  quicksand.setlobby:
+    default: op
+  quicksand.sign:
+    default: op
+  quicksand.join:
+    default: op
+  quicksand.setend:
+    default: op
