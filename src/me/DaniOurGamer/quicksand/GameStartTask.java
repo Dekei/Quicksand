@@ -1,7 +1,7 @@
-package me.firebreath15.quicksand;
+package me.DaniOurGamer.quicksand;
 
-import me.firebreath15.quicksand.api.MatchApi;
-import me.firebreath15.quicksand.api.SettingsApi;
+import me.DaniOurGamer.quicksand.api.MatchApi;
+import me.DaniOurGamer.quicksand.api.SettingsApi;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.Sound;
